@@ -4,6 +4,12 @@ Minimal `React Sample` provided by [DeployPRO](https://deploypro.dev/) service f
 
 <br />
 
+## Run in `Docker`
+
+@Todo - all steps here
+
+<br />
+
 ## Generating React Apps
 
 React uses [Node.js](https://nodejs.org/) to transpile the source code into Javascript code that can run in client's web browser. Make sure to have Node.js installed and its package manager, `npm`.
