@@ -11,6 +11,7 @@ COPY . .
 RUN yarn build
 
 # Expose port
-EXPOSE 3000
+EXPOSE 5000
+
 # Start the app
-CMD [ "npx", "serve", "-l", "3000", "-s", "build"]
+CMD [ "npx", "serve", "-l", "5000", "-s", "build"]
