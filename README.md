@@ -1,4 +1,4 @@
-# [DeployPRO](https://deploypro.dev/) `React Sample` 
+# [DeployPRO React](https://www.docs.deploypro.dev/samples/react) `Free Sample`
 
 Minimal `React Sample` provided by [DeployPRO](https://deploypro.dev/) service for testing.
 
@@ -24,4 +24,4 @@ $ yarn build  # production
 <br />
 
 ---
-React Sample - Open-source sample provided by [DeployPRO](https://deploypro.dev/)
+[React Starter](https://www.docs.deploypro.dev/samples/react) - Open-source sample provided by [DeployPRO](https://deploypro.dev/)
